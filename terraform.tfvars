@@ -15,8 +15,8 @@ oci_base_provider = {
 # Variable for Compartments
 ########################### 
 oci_cmp-cardano_vars = {
-  compartment_id      = "ocid1.tenancy.oc1..aaaaaaaayusuwcgjdjoc4itenayywdprkcfkkpwjkvgi4euy35ffxmt746jq"
-  description         = "compartment for production"
+  compartment_id      = "<fill here your tenant id>"
+  description         = "compartment for cardano staking pool"
   name                = "cardano-pool"
 }
 
